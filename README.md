@@ -34,6 +34,8 @@ Utilizing the Yelp Fusion application with latitude and longitude variables from
 <img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/convenience.png" width="550px" height="360px" />
 The chart serves as a comprehensive tool for analyzing main variables in real estate data. Users can select X and Y variables, which can be nominal or continuous, and can also be left blank as needed. The X variable determines the bubble sizes in the map chart, while the Y variable defines the color intensity. The scatterplot to the right visualizes the relationship between the selected X and Y variables. The histogram is used to observe variable distribution, with the Y variable used for selection. Additionally, a boxplot is available at the bottom left, allowing the display of a single variable or combining a continuous variable with a nominal one to analyze the distribution based on the nominal variable.
 
+<br>
+
 ### Summary
 - Purpose of the Chart: Offers an all-in-one view of key variables used in real estate data analysis.
 - Variable Selection: X and Y variables can be chosen and can be nominal, continuous, or left blank.
