@@ -57,6 +57,7 @@ The chart displays outcomes derived from a random-forest model aimed at identify
 <br>
 <br>
 <br>
+<br>
 
 ### Summary:
 - Random-Forest Model: Utilized to optimize variable combinations for improved price prediction.
@@ -74,6 +75,9 @@ The chart displays outcomes derived from a random-forest model aimed at identify
 ## [Price prediction features](https://public.tableau.com/app/profile/silvio.sopic/viz/WorkInProgress_16198790017670/4maps2_0)
 <img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/price%20prediction%20features.png" width="550px" height="360px" />
 The chart illustrates the most influential features contributing to the prediction of real estate prices. These features encompass a blend of geographical attributes, some of which are continuous variables (such as the quantity of bars within a 50-meter radius of the real estate), while others are nominal (like the average quality score of these bars, transformed into an ordinal variable). Notably, the visualization also sheds light on specific city areas with larger real estate properties or those holding various other crucial intrinsic features. For optimal viewing, it is recommended to set one continuous selector to price and modify the other selector to observe variations and discern disparities.
+<br>
+<br>
+<br>
 
 ### Summary:
 - Influential Features Identification: Highlights features with significant impact on real estate price prediction.
