@@ -17,4 +17,5 @@ Yelp Fusion API retrieves location and tags of various objects around a given la
 - **Tag Structure Example:** Restaurants might have multiple tags like "Mexican," "Croatian," or a fusion of both tags.
 - **Bar Chart Length:** Represents the tag count, providing insights into tag prevalence.
 - **Significance of Tags:** Crucial for understanding object details in later analysis stages.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
