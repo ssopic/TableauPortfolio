@@ -36,8 +36,6 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 
 <br>
 <br>
-<br>
-<br>
 
 ### Summary
 - Purpose of the Chart: Offers an all-in-one view of key variables used in real estate data analysis.
