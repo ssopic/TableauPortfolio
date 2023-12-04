@@ -8,6 +8,7 @@ Yelp Fusion API retrieves location and tags of various objects around a given la
 <br>
 <br>
 <br>
+### Summary:
 - **Yelp Fusion API:** Utilized for obtaining location and tags of objects near specified coordinates.
 - **Visualization Focus:** Highlights tag structures rather than specific locations.
 - **Tag Structure Example:** Restaurants might have multiple tags like "Mexican," "Croatian," or a fusion of both tags.
@@ -19,7 +20,7 @@ Yelp Fusion API retrieves location and tags of various objects around a given la
 ## [Points of interest and their ranking](https://public.tableau.com/app/profile/silvio.sopic/viz/YelpingaroundKingsCountydoubleselector/Dashboard1)
 Utilizing the Yelp Fusion application with latitude and longitude variables from the "convenience visualization" (but any mesh can be used) enables the understanding of specific elements' locations within a city. This information is crucial for interpreting geographical data, providing insights not only about the presence of locations like parks but also detailing their quality. For instance, distinguishing between a clean park and a dirty one impacts their respective surroundings differently. The visualization allows exploration of the surroundings of a selected location on a map. Filters on the left facilitate drill-down based on main tags from Yelp Fusion JSON. Certain brands may have multiple stores and their numbers and ratings are depicted on the treemap to the right. Further drill-down options are available in the filters below.
 
-
+### Summary
 - Yelp Fusion Application: Utilized with latitude and longitude variables for understanding city elements' whereabouts.
 - Significance of Geographical Data: Provides insights into the quality of locations, not just their presence.
 - Visualization Functionality: Explores surroundings based on a selected map location.
