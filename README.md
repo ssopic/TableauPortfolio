@@ -7,9 +7,6 @@ Summary:
 Yelp Fusion API retrieves location and tags of various objects around a given latitude and longitude. The visualization represents tag structures. For instance, a restaurant can be labeled as a Mexican or Croatian restaurant, or both (fusion tag). The length of the bar chart indicates the tag count. Tags are crucial for comprehending specific object types during subsequent analysis.
 <br>
 <br>
-<br>
-<br>
-<br>
 
 
 - **Yelp Fusion API:** Utilized for obtaining location and tags of objects near specified coordinates.
