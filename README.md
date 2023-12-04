@@ -31,7 +31,8 @@ Utilizing the Yelp Fusion application with latitude and longitude variables from
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## [Common real-estate mass price prediction convenience varibles](https://public.tableau.com/app/profile/silvio.sopic/viz/KCHousedatawithouttime-seriesinfo/Dashboard3)
-Utilizing the Yelp Fusion application with latitude and longitude variables from the "convenience visualization" (but any mesh can be used) enables the understanding of specific elements' locations within a city. This information is crucial for interpreting geographical data, providing insights not only about the presence of locations like parks but also detailing their quality. For instance, distinguishing between a clean park and a dirty one impacts their respective surroundings differently. The visualization allows exploration of the surroundings of a selected location on a map. Filters on the left facilitate drill-down based on main tags from Yelp Fusion JSON. Certain brands may have multiple stores and their numbers and ratings are depicted on the treemap to the right. Further drill-down options are available in the filters below.
+<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/convenience.png" width="550px" height="360px" />
+
 
 ### Summary
 - Yelp Fusion Application: Utilized with latitude and longitude variables for understanding city elements' whereabouts.
