@@ -60,8 +60,8 @@ The chart displays outcomes derived from a random-forest model aimed at identify
 
 ### Summary:
 - Random-Forest Model: Utilized to optimize variable combinations for improved price prediction.
--Observation of Results: Demonstrates how different variable combinations affect model performance.
--Utilization of All Variables: Indicates that employing all variables significantly improved all measured factors, signifying the comprehensive nature and effectiveness of including all available variables in enhancing price prediction quality.
+- Observation of Results: Demonstrates how different variable combinations affect model performance.
+- Utilization of All Variables: Indicates that employing all variables significantly improved all measured factors, signifying the comprehensive nature and effectiveness of including all available variables in enhancing price prediction quality.
 
 - Metrics Included:
   - Accuracy: Measures the model's overall correctness in predictions.
