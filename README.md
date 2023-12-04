@@ -48,19 +48,18 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## [Price prediction results visualization](https://public.tableau.com/app/profile/silvio.sopic/viz/RandomForestresults/Dashboard1)
-<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/convenience.png" width="550px" height="360px" />
-The chart serves as a comprehensive tool for analyzing main variables in real estate data. Users can select X and Y variables, which can be nominal or continuous, and can also be left blank as needed. The X variable determines the bubble sizes in the map chart, while the Y variable defines the color intensity. The scatterplot to the right visualizes the relationship between the selected X and Y variables. The histogram is used to observe variable distribution, with the Y variable used for selection. A filter is available for showcasing various ranges of said variable on the other charts making it ideal for outlier observation. Finally, a boxplot is available at the bottom left, allowing the display of a single variable or combining a continuous variable with a nominal one to analyze the distribution based on the nominal variable.
+<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/random%20forest%20results.png" width="550px" height="360px" />
+The chart displays outcomes derived from a random-forest model aimed at identifying optimal variable combinations to enhance price prediction quality. It showcases several metrics such as Accuracy, Mean Absolute Error (MAE) in USD, Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared. The varying combinations of variables exhibit diverse impacts on model improvement. Ultimately, utilizing all variables led to a significant enhancement across all factors.
 
-<br>
-<br>
-
-### Summary
-- Purpose of the Chart: Offers an all-in-one view of key variables used in real estate data analysis.
-- Variable Selection: X and Y variables can be chosen and can be nominal, continuous, or left blank.
-- Bubble Chart: Utilizes X variable for bubble sizes and Y for color intensity on the map chart.
-- Scatterplot Explanation: Demonstrates the relationship between selected X and Y variables.
-- Histogram Usage: Visualizes variable distribution, with Y variable serving for selection.
-- Boxplot Functionality: Available at the bottom left, displays a single variable or combines continuous with nominal variables for distribution analysis.
-
+### Summary:
+- Random-Forest Model: Utilized to optimize variable combinations for improved price prediction.
+- Metrics Included:
+  - Accuracy: Measures the model's overall correctness in predictions.
+  - Mean Absolute Error (MAE) in USD: Represents the average magnitude of errors in price prediction.
+  - Mean Squared Error (MSE): Measures the average squared differences between predicted and actual prices.
+  - Root Mean Squared Error (RMSE): Represents the square root of MSE, indicating the model's prediction error.
+  - R-squared: Measures the proportion of variance in price explained by the model.
+-Observation of Results: Demonstrates how different variable combinations affect model performance.
+-Utilization of All Variables: Indicates that employing all variables significantly improved all measured factors, signifying the comprehensive nature and effectiveness of including all available variables in enhancing price prediction quality.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
