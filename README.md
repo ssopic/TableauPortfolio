@@ -60,13 +60,14 @@ The chart displays outcomes derived from a random-forest model aimed at identify
 
 ### Summary:
 - Random-Forest Model: Utilized to optimize variable combinations for improved price prediction.
+-Observation of Results: Demonstrates how different variable combinations affect model performance.
+-Utilization of All Variables: Indicates that employing all variables significantly improved all measured factors, signifying the comprehensive nature and effectiveness of including all available variables in enhancing price prediction quality.
+
 - Metrics Included:
   - Accuracy: Measures the model's overall correctness in predictions.
   - Mean Absolute Error (MAE) in USD: Represents the average magnitude of errors in price prediction.
   - Mean Squared Error (MSE): Measures the average squared differences between predicted and actual prices.
   - Root Mean Squared Error (RMSE): Represents the square root of MSE, indicating the model's prediction error.
   - R-squared: Measures the proportion of variance in price explained by the model.
--Observation of Results: Demonstrates how different variable combinations affect model performance.
--Utilization of All Variables: Indicates that employing all variables significantly improved all measured factors, signifying the comprehensive nature and effectiveness of including all available variables in enhancing price prediction quality.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
