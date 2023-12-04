@@ -71,3 +71,18 @@ The chart displays outcomes derived from a random-forest model aimed at identify
   - R-squared: Measures the proportion of variance in price explained by the model.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## [Price prediction features](https://public.tableau.com/app/profile/silvio.sopic/viz/WorkInProgress_16198790017670/4maps2_0)
+<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/price%20prediction%20features.png" width="550px" height="360px" />
+The chart illustrates the most influential features contributing to the prediction of real estate prices. These features encompass a blend of geographical attributes, some of which are continuous variables (such as the quantity of bars within a 50-meter radius of the real estate), while others are nominal (like the average quality score of these bars, transformed into an ordinal variable). Notably, the visualization also sheds light on specific city areas with larger real estate properties or those holding various other crucial intrinsic features. For optimal viewing, it is recommended to set one continuous selector to price and modify the other selector to observe variations and discern disparities.
+
+### Summary:
+- Influential Features Identification: Highlights features with significant impact on real estate price prediction.
+- Nature of Features:
+  - Continuous Variables: Includes geographical factors like the quantity of nearby bars.
+  - Nominal Variables: Incorporates categorical attributes, e.g., quality scores transformed into ordinal variables.
+- City Area Insights: Offers insights into areas with larger real estate properties and other notable intrinsic features.
+- Recommended Viewing:
+  - Suggested setting one continuous selector to price for comparison.
+  - Modify the other selector to observe variations in influential features, aiding in discerning patterns and disparities affecting real estate prices.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
