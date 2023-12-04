@@ -50,6 +50,10 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 ## [Price prediction results visualization](https://public.tableau.com/app/profile/silvio.sopic/viz/RandomForestresults/Dashboard1)
 <img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/random%20forest%20results.png" width="550px" height="360px" />
 The chart displays outcomes derived from a random-forest model aimed at identifying optimal variable combinations to enhance price prediction quality. It showcases several metrics such as Accuracy, Mean Absolute Error (MAE) in USD, Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R-squared. The varying combinations of variables exhibit diverse impacts on model improvement. Ultimately, utilizing all variables led to a significant enhancement across all factors.
+<br>
+<br>
+<br>
+<br>
 
 ### Summary:
 - Random-Forest Model: Utilized to optimize variable combinations for improved price prediction.
