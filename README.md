@@ -47,4 +47,20 @@ The chart serves as a comprehensive tool for analyzing main variables in real es
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## [Price prediction results visualization](https://public.tableau.com/app/profile/silvio.sopic/viz/RandomForestresults/Dashboard1)
+<img align="right" alt="rankings" src="https://github.com/ssopic/TableauPortfolio/blob/main/convenience.png" width="550px" height="360px" />
+The chart serves as a comprehensive tool for analyzing main variables in real estate data. Users can select X and Y variables, which can be nominal or continuous, and can also be left blank as needed. The X variable determines the bubble sizes in the map chart, while the Y variable defines the color intensity. The scatterplot to the right visualizes the relationship between the selected X and Y variables. The histogram is used to observe variable distribution, with the Y variable used for selection. A filter is available for showcasing various ranges of said variable on the other charts making it ideal for outlier observation. Finally, a boxplot is available at the bottom left, allowing the display of a single variable or combining a continuous variable with a nominal one to analyze the distribution based on the nominal variable.
+
+<br>
+<br>
+
+### Summary
+- Purpose of the Chart: Offers an all-in-one view of key variables used in real estate data analysis.
+- Variable Selection: X and Y variables can be chosen and can be nominal, continuous, or left blank.
+- Bubble Chart: Utilizes X variable for bubble sizes and Y for color intensity on the map chart.
+- Scatterplot Explanation: Demonstrates the relationship between selected X and Y variables.
+- Histogram Usage: Visualizes variable distribution, with Y variable serving for selection.
+- Boxplot Functionality: Available at the bottom left, displays a single variable or combines continuous with nominal variables for distribution analysis.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
